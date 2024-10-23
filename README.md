@@ -8,3 +8,6 @@
   software. This one exactly like what I did in Microsoft Depyloment Toolkit that I'm very familiar with.  </p>
 
 ![image](https://github.com/user-attachments/assets/6e9e3234-b0a5-42bb-ab81-a9f9dd11a7eb)
+
+<p>After putting Deployment and Inventory applications in the /IT_Homlab/PBQ. I copied and paste from
+the transient folder on my DC_Controller desktop VM.</p>
