@@ -5,6 +5,6 @@
 <h2>Installing in the Oracle VM sharing folder</h2>
 
 <p> PBQ is a software deployment tool designed to automate the process of installing, updating, and uninstalling software across
-  software  </p>
+  software. This one exactly like what I did in Microsoft Depyloment Toolkit that I'm very familiar with.  </p>
 
 ![image](https://github.com/user-attachments/assets/6e9e3234-b0a5-42bb-ab81-a9f9dd11a7eb)
