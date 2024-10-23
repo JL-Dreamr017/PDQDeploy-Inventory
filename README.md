@@ -11,3 +11,12 @@
 
 <p>After putting Deployment and Inventory applications in the /IT_Homlab/PBQ. I copied and paste from
 the transient folder on my DC_Controller desktop VM.</p>
+
+<h2>Deploy Installation</h2>
+
+![image](https://github.com/user-attachments/assets/2f76eba3-c6bb-4984-8f86-41c0c16265c2)
+
+
+<h2>Putting in license key number</h2>
+
+![image](https://github.com/user-attachments/assets/6e79b7a6-2d78-4fd1-a35c-55e8ff1c7289)
