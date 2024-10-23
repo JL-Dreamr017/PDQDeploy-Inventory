@@ -20,3 +20,11 @@ the transient folder on my DC_Controller desktop VM.</p>
 <h2>Putting in license key number</h2>
 
 ![image](https://github.com/user-attachments/assets/6e79b7a6-2d78-4fd1-a35c-55e8ff1c7289)
+
+
+
+![image](https://github.com/user-attachments/assets/5b46fcab-7525-44be-8809-0403be94a9c8)
+
+
+![image](https://github.com/user-attachments/assets/a57e5e64-7746-472f-bc86-a39056dde9c8)
+
